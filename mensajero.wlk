@@ -20,7 +20,7 @@ object camion {
     var property peso = 3500 //kg 
 }
 
-object chukNorris{
+object chuck{
     var property  pesoPropio = 80 //kg
 
     method puedeHacerUnaLlamada() {

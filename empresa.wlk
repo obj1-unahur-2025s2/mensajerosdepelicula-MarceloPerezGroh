@@ -1,4 +1,4 @@
-import mensajeros.*
+import mensajero.*
 import destinos.*
 import paquetes.*
 

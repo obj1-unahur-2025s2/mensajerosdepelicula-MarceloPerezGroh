@@ -1,4 +1,4 @@
-import mensajeros.*
+import mensajero.*
 
 object puenteDeBrooklyn {
     method puedePasar(mensajero){
